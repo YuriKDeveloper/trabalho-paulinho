@@ -1,0 +1,7 @@
+A lógica utilizada para o desenvolvimento do programa foi baseada em uma série de etapas que foram implementadas para alcançar o objetivo final. A primeira etapa envolveu a identificação do que era solicitado no programa, ou seja, a definição clara e precisa do que se esperava que o programa fizesse.
+
+Após essa identificação, foi criado um loop de repetição para permitir que o usuário inserisse dados ou exibisse resultados. Dentro desse loop, foram criados os métodos Bubble, Insert e Select que eram necessários para a execução do programa. A escolha do método a ser executado pelo usuário foi implementada por meio de um switch, permitindo que o programa pudesse ser executado de forma mais flexível.
+
+Além disso, a biblioteca foi utilizada para implementar o método copyArray, que permitiu que os três métodos fossem executados simultaneamente, proporcionando maior eficiência e rapidez na execução do programa. Cada método foi criado para um código específico, permitindo que o programa pudesse ser executado de forma mais organizada e eficiente.
+
+Em resumo, a lógica utilizada no desenvolvimento do programa foi baseada em uma abordagem sistemática e organizada, que permitiu a implementação das etapas necessárias para alcançar o objetivo final. A identificação clara do que era solicitado, a criação de um loop, a implementação de métodos e o uso do método copyArray foram as principais etapas implementadas para criar um programa eficiente e funcional.
